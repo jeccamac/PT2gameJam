@@ -1,0 +1,48 @@
+﻿title: Start
+tags:
+---
+Shadowed figure: ...
+Shadowed figure: So another child has fallen victim...
+Shadowed figure: *visibly upset*
+Shadowed figure: I have to gather the team.
+Shadowed figure: We will put a stop to this.
+
+<<jump Hallway>>
+
+title: Hallway
+tags:
+---
+
+Hikari: *phone rings*
+Hikari: Hello?
+Hikari: [thinking] ...
+Hikari: I sense this is urgent.
+Hikari: Alright, I'll let the others know.
+
+<<jump Classroom>>
+===
+
+title: Classroom
+tags:
+---
+Hikari: Rikku. Sakura.
+(Rikku & Sakura appear)
+Hikari: We got another situation.
+[Rikku and Sakura shocked]
+Rikku: Ugh dammit!
+Hikari: Rikku, please.
+Sakura: That poor child...
+Hikari: This one is urgent, we meet tonight.
+Sakura: So soon?
+Rikku: Finally, I've been meaning to test out my strength!
+Sakura: I'm not good at fighting...
+Hikari: We'll meet at the usual place.
+
+<<jump Battle>>
+===
+
+title: Battle
+tags:
+---
+
+===
